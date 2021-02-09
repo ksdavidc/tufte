@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Usind dates"
+title: "Using dates"
 date: 2021-02-09 00:00:00
 category: Category
 author: User
